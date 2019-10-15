@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "mera.hse.mleykin.fragmentlifecycle"
+        applicationId "mera.hse.mleykin.fragmentdynamic"
         minSdkVersion 17
         targetSdkVersion 22
         versionCode 1

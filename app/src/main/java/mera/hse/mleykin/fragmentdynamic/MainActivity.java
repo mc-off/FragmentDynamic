@@ -1,4 +1,4 @@
-package mera.hse.mleykin.fragmentlifecycle;
+package mera.hse.mleykin.fragmentdynamic;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -6,8 +6,6 @@ import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.CheckBox;
-import android.widget.EditText;
-import android.widget.TextView;
 
 
 public class MainActivity extends Activity {

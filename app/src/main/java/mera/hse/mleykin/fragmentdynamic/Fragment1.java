@@ -1,4 +1,4 @@
-package mera.hse.mleykin.fragmentlifecycle;
+package mera.hse.mleykin.fragmentdynamic;
 
 import android.app.Fragment;
 import android.os.Bundle;
